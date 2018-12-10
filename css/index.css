@@ -1,0 +1,22 @@
+.row div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 5rem;
+	border: 1px solid grey;
+	margin: 1rem;
+}
+
+span.e {
+	color: white;
+	background-color: blue;
+	padding-top: .5rem;
+	padding-right: .5rem;
+	padding-left: .5rem;
+	border-radius: .5rem;
+	font-weight: bold;
+}
+
+.jumbotron div .btn {
+	font-weight: bold;
+}
