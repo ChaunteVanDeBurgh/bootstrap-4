@@ -19,3 +19,7 @@ span.e {
 .card-deck:nth-child(2) div:nth-child(2) .card-img-overlay {
 	margin-top: 10rem;
 }
+
+.footer {
+	margin: 1rem;
+}
